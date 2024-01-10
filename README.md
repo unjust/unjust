@@ -1,8 +1,8 @@
 # Hello, world
 
 - 🔭 I’m currently working on: [curriculum software](https://github.com/Laboratoria/curriculum) and a music streaming website
-- 🧠 I’m currently learning: WCAG 2.2 guidelines and going for the [Web Accessibility Specialist certification](https://www.accessibilityassociation.org/s/wascertification)
-  and also [FastAPI](https://fastapi.tiangolo.com/) 🐍 
+- 🧠 I’m currently learning: WCAG 2.2 guidelines and going for the [Web Accessibility Specialist certification](https://www.accessibilityassociation.org/s/wascertification),
+  and also learning [FastAPI](https://fastapi.tiangolo.com/) 🐍 
 - 🎨 I like animating with [p5.js](https://p5js.org/es/)
 
 Looking for projects fullstack or frontend that allow me to work in javascript, python, etc. and implement and advocate for accessibility.  
