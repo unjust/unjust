@@ -1,7 +1,7 @@
 # Hello, world
 
 - 🧠 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/) 🐍
-- I am certified as a [Web Accessibility Specialist certification](https://www.accessibilityassociation.org/s/wascertification),
+- I am certified as a [Web Accessibility Specialist](https://www.accessibilityassociation.org/s/wascertification),
 - 🎨 I animate with [p5.js](https://p5js.org/es/)
 
 Looking for projects fullstack or frontend that allow me to work in javascript, python, etc. and implement and advocate for accessibility.  
