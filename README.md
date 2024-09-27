@@ -6,7 +6,7 @@
 
 Looking for projects fullstack or frontend that allow me to work in javascript, python, etc. and implement and advocate for accessibility.  
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ivy-feraco-js/)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ivy-feraco/)
 
 <!---
 ## Tech stack
